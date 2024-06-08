@@ -1,0 +1,30 @@
+C:\Users\Zain Ashraf\Documents\Visual Studio 2022\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Zain Ashraf\Documents\Visual Studio 2022\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Zain Ashraf\Documents\Visual Studio 2022\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Zain Ashraf\Documents\Visual Studio 2022\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Zain Ashraf\Documents\Visual Studio 2022\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Zain Ashraf\Documents\Visual Studio 2022\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Zain Ashraf\Documents\Visual Studio 2022\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Zain Ashraf\Documents\Visual Studio 2022\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Zain Ashraf\Documents\Visual Studio 2022\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Zain Ashraf\Documents\Visual Studio 2022\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Zain Ashraf\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Zain Ashraf\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Zain Ashraf\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Zain Ashraf\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Zain Ashraf\Desktop\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Zain Ashraf\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Zain Ashraf\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Zain Ashraf\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Zain Ashraf\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Zain Ashraf\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\!Google Drive Data 2259\Uni\CS-412 (Visual Programming usng C#)\Assignment 3 Calculator Complete\(2022-ag-8568) Zain Ashraf\Calculator\bin\Debug\Calculator.exe.config
+E:\!Google Drive Data 2259\Uni\CS-412 (Visual Programming usng C#)\Assignment 3 Calculator Complete\(2022-ag-8568) Zain Ashraf\Calculator\bin\Debug\Calculator.exe
+E:\!Google Drive Data 2259\Uni\CS-412 (Visual Programming usng C#)\Assignment 3 Calculator Complete\(2022-ag-8568) Zain Ashraf\Calculator\bin\Debug\Calculator.pdb
+E:\!Google Drive Data 2259\Uni\CS-412 (Visual Programming usng C#)\Assignment 3 Calculator Complete\(2022-ag-8568) Zain Ashraf\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\!Google Drive Data 2259\Uni\CS-412 (Visual Programming usng C#)\Assignment 3 Calculator Complete\(2022-ag-8568) Zain Ashraf\Calculator\obj\Debug\Calculator.Form1.resources
+E:\!Google Drive Data 2259\Uni\CS-412 (Visual Programming usng C#)\Assignment 3 Calculator Complete\(2022-ag-8568) Zain Ashraf\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\!Google Drive Data 2259\Uni\CS-412 (Visual Programming usng C#)\Assignment 3 Calculator Complete\(2022-ag-8568) Zain Ashraf\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\!Google Drive Data 2259\Uni\CS-412 (Visual Programming usng C#)\Assignment 3 Calculator Complete\(2022-ag-8568) Zain Ashraf\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\!Google Drive Data 2259\Uni\CS-412 (Visual Programming usng C#)\Assignment 3 Calculator Complete\(2022-ag-8568) Zain Ashraf\Calculator\obj\Debug\Calculator.exe
+E:\!Google Drive Data 2259\Uni\CS-412 (Visual Programming usng C#)\Assignment 3 Calculator Complete\(2022-ag-8568) Zain Ashraf\Calculator\obj\Debug\Calculator.pdb
